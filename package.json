@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nassor/mongoose-history"
+    "url": "https://github.com/reyx/mongoose-history"
   },
   "keywords": [
     "mongoose",
@@ -21,47 +21,17 @@
     "backup"
   ],
   "author": {
-    "name": "Nassor Paulino da Silva",
-    "email": "nassor@gmail.com",
-    "url": "https://github.com/nassor"
+    "name": "Regis Sabino",
+    "email": "regis.sabino@gmail.com",
+    "url": "https://github.com/reyx"
   },
-  "contributors": [
-    {
-      "name": "Christopher Britz",
-      "email": "britztopher@gmail.com",
-      "url": "https://github.com/britztopher"
-    },
-    {
-      "name": "Allan Nienhuis",
-      "url": "https://github.com/allannienhuis"
-    },
-    {
-      "name": "João Manoel Pampanini Filho",
-      "email": "joao.bontorin@gmail.com",
-      "url": "https://github.com/jmpf13"
-    },
-    {
-      "name": "Sebastien Vaucouleur",
-      "url": "http://vaucouleur.com"
-    },
-    {
-      "name": "Victor Parmar",
-      "url": "https://smalldata.tech"
-    }
-  ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/nassor/mongoose-history/issues"
+    "url": "https://github.com/reyx/mongoose-history/issues"
   },
-  "dependencies": {},
   "devDependencies": {
-    "async": "^2.6.0",
-    "mongoose": "^5.0.0",
-    "mocha": "2.4.5",
-    "should": "8.2.2"
-  },
-  "peerDependencies": {
-    "async": "^2.0.0",
-    "mongoose": "^4.0.0 || >=5.0.0"
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0",
+    "mongoose": "^7.5.1"
   }
 }
